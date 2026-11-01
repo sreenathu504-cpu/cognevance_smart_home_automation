@@ -38,7 +38,7 @@ Design a basic smart home automation system using an ESP32 and IoT sensors that 
 ## Output
 
 
-![Circuit](circuit/circuit.png)
+![Circuit](IMG-20261101-WA0007.jpg)
 
 
 
